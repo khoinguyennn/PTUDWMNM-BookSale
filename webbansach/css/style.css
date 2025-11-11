@@ -1,0 +1,15 @@
+* {
+    font-family: Roboto;
+}
+
+a:link {
+    color: brown;
+    display: block;
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+    background-color: yellow;
+    font-weight: bold;
+}
+
